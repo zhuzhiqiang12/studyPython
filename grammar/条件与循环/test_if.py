@@ -4,4 +4,4 @@ if x > 2:
 elif x == 12:
     print("笑了")
 else:
-    print("哭了")
+    print("哭了吗")
