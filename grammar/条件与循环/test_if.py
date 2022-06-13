@@ -5,3 +5,10 @@ elif x == 12:
     print("笑了")
 else:
     print("哭了吗")
+
+count = 0
+for i in range(0, 10):
+    print("helloworld")
+    count = count + 1
+
+print(count)
