@@ -14,3 +14,5 @@ for i in range(0, 10):
 print(count)
 
 print("搞定了啦啦啦啦啦")
+print("搞定了啦啦啦啦啦")
+print("搞定了啦啦啦啦啦")
